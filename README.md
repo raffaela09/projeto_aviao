@@ -19,7 +19,9 @@ Criação de 10 voos com códigos únicos (exemplo: VOO001, VOO002, etc.).
 **Instalacao:**
 
 git clone https://github.com/raffaela09/projeto_aviao.git
+
 cd projeto_aviao
+
 pip install -r requirements.txt
 
 
