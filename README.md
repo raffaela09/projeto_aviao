@@ -16,6 +16,10 @@ Criação de 10 voos com códigos únicos (exemplo: VOO001, VOO002, etc.).
   10 passageiros, com seus respectivos voos, com o preco de cada voo e seu assento.
   10 tripulantes, com seus respectivos cargos e vvoos.
   
+**Instalacao:**
 
+git clone https://github.com/raffaela09/projeto_aviao.git
+cd projeto_aviao
+pip install -r requirements.txt
 
 
