@@ -2,7 +2,8 @@
 
 Este projeto simula um sistema de reserva para voos comerciais. Ele gerencia múltiplos voos, passageiros, assentos e tripulação de forma integrada e realista.
 
-Funcionalidades principais:
+**Funcionalidades principais:**
+
 Criação de 10 voos com códigos únicos (exemplo: VOO001, VOO002, etc.).
 
   Cada voo possui 250 assentos disponíveis para reserva.
